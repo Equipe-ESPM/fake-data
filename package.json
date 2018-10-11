@@ -1,0 +1,29 @@
+{
+  "name": "fake-data",
+  "version": "1.0.0",
+  "description": "meu fake",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Equipe-ESPM/fake-data.git"
+  },
+  "keywords": [
+    "fakedata",
+    "fake",
+    "data"
+  ],
+  "author": "espm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Equipe-ESPM/fake-data/issues"
+  },
+  "homepage": "https://github.com/Equipe-ESPM/fake-data#readme"
+}
